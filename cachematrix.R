@@ -18,8 +18,6 @@ makeCacheMatrix <- function(x = matrix()) {
              getsolve = getsolve)
 }
 
-
-
 ## Write a short comment describing this function
 # this function calculates the inverse of matrix
 # if the inverse is already calculated it gets the cached data
